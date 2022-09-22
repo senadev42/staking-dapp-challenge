@@ -3,8 +3,6 @@
 Challenges Implemented
 
 1. Update the interest mechanism in the Staker.sol contract so that you receive a "non-linear" amount of ETH based on the blocks between deposit and withdrawal
-📘
-I suggest implementing a basic exponential function!
 
 2. Allow users to deposit any arbitrary amount of ETH into the smart contract, not just 0.5 ETH.
 
